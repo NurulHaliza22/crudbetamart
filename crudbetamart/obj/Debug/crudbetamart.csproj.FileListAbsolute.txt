@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\bin\Debug\crudbetamart.exe.config
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\bin\Debug\crudbetamart.exe
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\bin\Debug\crudbetamart.pdb
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.Properties.Resources.resources
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.exe
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.pdb
+C:\Users\HP\source\repos\crudbetamart\crudbetamart\obj\Debug\crudbetamart.BetaMartCrud.resources
